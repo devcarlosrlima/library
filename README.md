@@ -16,14 +16,14 @@ Um sistema para gerenciar livros, membros, empréstimos e devoluções. Desenvol
 ## Tecnologias
 
 - **Backend**: Java 22, Spring Boot 3
-- **Banco de Dados**: MySQL/PostgreSQL
+- **Banco de Dados**: MySQL
 - **Frontend**: React, Tailwind CSS
 - **Deploy**: Docker
 
 ## Requisitos
 
 - Java 22
-- MySQL/PostgreSQL
+- MySQL
 - Docker
 
 ## Documentação da API
